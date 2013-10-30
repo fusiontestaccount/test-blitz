@@ -1,5 +1,7 @@
 This is the TestRepository README file. hello
 
+PLEASE DO NOT push any commits with DEV-xx in the commit message. This repo is used in the func tests.
+
 Change this file to test Fusion/Bitbucket integration. History:
 * added a commit that references DEV-1.
 * added a commit that references DEV-2.
